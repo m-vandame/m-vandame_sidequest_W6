@@ -1,0 +1,44 @@
+## Project Title
+
+GBDA302 Week 6 Example 4 with added sound effects and background music
+
+---
+
+## Authors
+
+Karen Cochrane and David Han
+Modified by Marine-Chloe Vandame using Claude
+
+---
+
+## Description
+
+This p5.js project is a pixel-art 2D platformer game where you play as a fox navigating through a tilemap-based level. The objective of the game is to collect 15 leaves to win the game while avoiding boars that patrol the level and attacks.
+
+---
+
+## Learning Goals
+
+- To add sounds to our sketches.js triggered by motion, collisions or from player action.
+
+---
+
+## Assets
+
+Audio:
+[1] freesound_CrunchpixStudio. 2026. Attack Sound 1. Pixabay Sound Effect. (August 4, 2026). Retrieved from March 13, 2026 from https://pixabay.com/sound-effects/film-special-effects-attack-sound-1-384908/
+[2] freesound_CrunchpixStudio. 2026. Bar Increase Cartoon Funny Jump. Pixabay Sound Effect. (August 4, 2026). Retrieved from March 13, 2026 from https://pixabay.com/sound-effects/film-special-effects-bar-increase-cartoon-funny-jump-384919/
+[3] freesound_CrunchpixStudio. 2026. Drop Coin. Pixabay Sound Effect. (August 4, 2026). Retrieved from March 13, 2026 from https://pixabay.com/sound-effects/film-special-effects-drop-coin-384921/
+[4] floraphonic. 2024. Drop Coin. Pixabay Sound Effect. (January 16, 2024). Retrieved from March 13, 2026 from https://pixabay.com/sound-effects/film-special-effects-fire-torch-whoosh-2-186586/
+[5] RibhavAgrawal. 2024. game over 2 sound effect. Pixabay Sound Effect. (August 7, 2024). Retrieved from March 13, 2026 from https://pixabay.com/sound-effects/film-special-effects-game-over-2-sound-effect-230463/
+[6] NCPRIME. 2025. NONCOPYRIGHT MUSIC PIANOS. Pixabay Sound Effect. (January 30, 2025). Retrieved from March 13, 2026 from https://pixabay.com/sound-effects/musical-noncopyright-music-pianos-295174/
+[7] Virtual_Vibes. 2025. Thud Impact Sound SFX. Pixabay Sound Effect. (January 27, 2025). Retrieved from March 13, 2026 from https://pixabay.com/sound-effects/film-special-effects-thud-impact-sound-sfx-379990/
+
+---
+
+## GenAI
+
+The code was written by David Han and Dr. Karen Cochrane but she used GenAI to write the comments.
+The code was modified by Marine-Chloe Vandame and she used GenAI to turn it into an Egg Game.
+
+---
